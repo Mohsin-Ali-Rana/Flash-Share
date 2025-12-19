@@ -14,9 +14,6 @@ Projector Mode: Broadcast photos and PDFs to multiple devices in real-time.
 Live Tools: Synchronized Zoom, Pan, Drawing (Pen/Highlighter), and Page Navigation.
 WebRTC-Style Sync: Optimized binary stream transmission (15-30 FPS) for low-latency casting.
 
-📱 Phone Clone
-Smart Migration: One-click backup solution to move Photos, Videos, Apps, and Contacts to a new device or PC.
-Bulk Selection: Auto-scans device storage and categorizes content.
 
 📋 Universal Clipboard
 Live Text Sync: Copy text on your Laptop, paste it on your Phone (and vice-versa) instantly via WebSockets.
